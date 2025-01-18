@@ -1,5 +1,9 @@
 # 🤖 Chat with PDF locally using Ollama + LangChain
-<img src='./images/home.png'><img/>
+<img src='./Images/Rag.png'></img>
+<br>
+<img src='./Images/Tools.png'></img>
+<br>
+<img src='./Images/Pre-processing.png'></img>
 
 A powerful local RAG (Retrieval Augmented Generation) application that lets you chat with your PDF documents using Ollama and LangChain.
 
@@ -54,11 +58,10 @@ A powerful local RAG (Retrieval Augmented Generation) application that lets you 
 straemlit run app.py
 ```
 Then open your browser to `http://localhost:8501`
-<img src='./Images/Rag.png'></img>
-<img src='./Images/Tools.png'></img>
-<img src='./Images/Pre-processing.png'></img>
-<img src='./Images/QA.jpg'></img>
 <img src='./Images/home.jpg'></img>
+<br>
+<img src='./Images/QA.jpg'></img>
+
 
 ## 💡 Usage Tips
 
